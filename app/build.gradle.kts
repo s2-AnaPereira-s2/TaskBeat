@@ -37,6 +37,7 @@ android {
 }
 
 dependencies {
+    implementation("androidx.activity:activity:1.9.3")
     val room_version = "2.6.1"
 
 
